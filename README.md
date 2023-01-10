@@ -16,4 +16,5 @@ Follow tutorial:
 [TypeScript “Hello, World!”](https://www.typescripttutorial.net/typescript-tutorial/typescript-hello-world/)
 
 Output :
+
 ![image](https://user-images.githubusercontent.com/72098281/211537827-169e8bde-01fb-4fba-958b-bb26de797ed0.png)
